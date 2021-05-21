@@ -5,7 +5,8 @@ Created on Thu May 13 15:37:17 2021
 
 @author: zielony
 """
-from netl import startCollector,analyzeFrame
+from libnet_monitor import startCollector
+from libnet_monitor_parser import analyzeFrame
 from multiprocessing import Queue,Process,Pool
 import multiprocessing
 import time
