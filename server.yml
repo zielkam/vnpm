@@ -1,0 +1,12 @@
+general:
+    interface: tap0
+    num_of_processes: 5
+dbconf:
+    type: sqlite3
+    dbfile: data.sqlite3
+monitor:
+    ports: 
+    - 5060
+    - 5061
+    - 5062
+
