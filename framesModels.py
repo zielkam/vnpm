@@ -3,7 +3,7 @@
 """
 Created on Wed May 19 09:11:38 2021
 
-@author: zielony
+@author: kamil.zieleniec@vertebit.pl
 """
 
 from struct import unpack

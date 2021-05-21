@@ -3,7 +3,7 @@
 """
 Created on Thu May 13 15:37:17 2021
 
-@author: zielony
+@author: kamil.zieleniec@vertebit.pl
 """
 from libnet_monitor import startCollector
 from libnet_monitor_parser import analyzeFrame

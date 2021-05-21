@@ -3,7 +3,7 @@
 """
 Created on Fri May 21 16:02:07 2021
 
-@author: zielony
+@author: kamil.zieleniec@vertebit.pl
 """
 from struct import unpack
 from socket import inet_ntoa
